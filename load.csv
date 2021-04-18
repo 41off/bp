@@ -1,9 +1,9 @@
 Athlete: 
-Direction: false
+Direction: true
 Speed: 0
 Rope Length: 0
 Distance,Deviation,Time Offset
--59.262,-0.065,0.0
+-59.262,-0.078,0.0
 -57.826,-0.072,0.1
 -56.391,-0.085,0.2
 -54.958,-0.105,0.3
